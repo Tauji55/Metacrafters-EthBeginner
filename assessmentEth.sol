@@ -19,7 +19,7 @@ contract MyToken {
 
     // public variables here
     string public tokenName="MayanEraCoin";
-    string public tokenAbbrv="MayCoin";
+    string public tokenAbbrv="MAYA";
     uint totalSupply=0;
     // mapping variable here
     mapping(address => uint) public balances;
